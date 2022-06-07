@@ -153,10 +153,47 @@ Las posibles razones serian que al estar conectado en serie el circuito se pueda
 
 Se podría medir en r2 dando como resultado I = 25 mA
 
+Capitulo 6: Circuitos en Paralelo 
 
+2.Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
+![image](https://user-images.githubusercontent.com/105940407/172420969-626e1b84-53b9-4420-9088-9e8e8f3bfba6.png)
+
+Se encuentran en paralelo todas las resistencias 
+
+4.¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Æ? Hay cuatro resistores, todos de igual valor.
+
+12V ya que el mismo voltaje que entra debe salir 
+
+6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
+ ![image](https://user-images.githubusercontent.com/105940407/172421103-9b3efaa7-d217-4587-a173-6700d8c31475.png)
+
+RT= 0.64 kΩ
+
+8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor
+ ![image](https://user-images.githubusercontent.com/105940407/172421181-128aa00b-49d0-4fac-b277-276c5a17a59f.png)
+
+Posición A: 
+Paralelo (R1-R4)=20.55mA
+Posición B: 
+Paralelo (R1-R3)= 21.74mA
+Posición C: 
+Paralelo (R1-R2)=23.44mA
+
+10.Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor
+
+I5 = 175 mA
+
+14. Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total
+
+0.56MΩ
+
+16. Calcule RT en cada uno de los circuitos de la figura 6-70
+
+![image](https://user-images.githubusercontent.com/105940407/172421350-1e635cd2-79ce-47eb-be41-2e8764319007.png)
 
 VIDEO 
 
+https://youtu.be/4mGEVJXE2o9k
 
 CONCLUSIONES 
 
