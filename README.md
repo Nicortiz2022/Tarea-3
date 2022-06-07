@@ -9,7 +9,7 @@ Objetivos:
 
 MARCO TEORICO 
 
-1. Circuitos en serie 
+1. Capitulo 5: Circuitos en serie 
 
 1.1 Resistores en Serie 
 
@@ -66,7 +66,92 @@ MARCO TEORICO
 ![5  Fuentes Paralelo](https://user-images.githubusercontent.com/105940407/172311307-451fb847-da62-47b2-9217-a82fbe7ec79b.jpg)
 
 EJERCICIOS 
+Capitulo 5: Circuitos en Serie 
 
+2.
+
+
+
+4.
+
+
+
+6.
+
+
+
+8.
+
+
+10.
+
+12.
+
+14.
+
+16.
+
+18.
+
+20.
+
+22.
+
+24.
+
+26.
+
+28.
+
+30.
+
+32.
+
+34.
+
+36.
+
+38.
+
+40.
+
+42.En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería 
+![image](https://user-images.githubusercontent.com/105940407/172415447-ed0be2c7-9d3c-4d8b-bbf4-359532030ce2.png)
+
+RT = 22kΩ + 10kΩ + 56kΩ + 15kΩ + 5.6kΩ
+RT= 108.6kΩ  →  Vr5 = 5.15 V
+
+44. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
+
+Pt = 5 * 50 mW
+Pt = 250 mW
+
+48. Los siguientes resistores de 1 ⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+
+Vs = 125V
+
+50. Cierto circuito en serie se compone de un resistor de 1 ⁄8 W, un resistor de 1 ⁄4 W, y un resistor de 1 ⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: 
+(a) I 
+(b) VT 
+(c) El valor de cada resisto
+
+R1 = 0.35kΩ 
+R2 = 0.69 KΩ
+R3 = 1.38 kΩ
+
+52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
+![image](https://user-images.githubusercontent.com/105940407/172415971-88f75bec-2c59-4ccf-b4ae-308d6a891e73.png)
+
+Haciendo una medición de voltaje con respecto a la tierra. Poniendo la punta negativa del multímetro en la tierra de la fuente de voltaje y la punta positiva en la resistencia 2.
+
+54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
+
+Las posibles razones serian que al estar conectado en serie el circuito se pueda encontrar abierto, o con alguna resistencia quemada o dañada dejando que la resistencia 2 reciba el voltaje 
+
+56. ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
+![image](https://user-images.githubusercontent.com/105940407/172416091-d6b59097-b1af-4406-8001-305cab17af47.png)
+
+Se podría medir en r2 dando como resultado I = 25 mA
 
 
 
